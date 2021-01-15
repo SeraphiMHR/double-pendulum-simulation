@@ -1,0 +1,10 @@
+E:\source\repos\double_Pendulum\double_Pendulum\bin\Release\double_Pendulum.exe.config
+E:\source\repos\double_Pendulum\double_Pendulum\bin\Release\double_Pendulum.exe
+E:\source\repos\double_Pendulum\double_Pendulum\bin\Release\double_Pendulum.pdb
+E:\source\repos\double_Pendulum\double_Pendulum\obj\Release\double_Pendulum.csprojAssemblyReference.cache
+E:\source\repos\double_Pendulum\double_Pendulum\obj\Release\double_Pendulum.Form1.resources
+E:\source\repos\double_Pendulum\double_Pendulum\obj\Release\double_Pendulum.Properties.Resources.resources
+E:\source\repos\double_Pendulum\double_Pendulum\obj\Release\double_Pendulum.csproj.GenerateResource.cache
+E:\source\repos\double_Pendulum\double_Pendulum\obj\Release\double_Pendulum.csproj.CoreCompileInputs.cache
+E:\source\repos\double_Pendulum\double_Pendulum\obj\Release\double_Pendulum.exe
+E:\source\repos\double_Pendulum\double_Pendulum\obj\Release\double_Pendulum.pdb
